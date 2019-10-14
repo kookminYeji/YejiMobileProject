@@ -9,6 +9,8 @@
 - ID, 비밀번호 입력 시 기존에 가입한 회원 ID, 비밀번호 체크 오류 시 에러 메시지 출력
 - ID, 비밀번호 입력이 정상이고 로그인 버튼 클릭 시 세번째 페이지 이동  
 
+![image_1](./image/2.png)
+
 
 
 
@@ -19,6 +21,8 @@
 - 개인정보 사용 동의 간략 약관(TextView), 동의 여부(Radio Button, Decline/Accept)
 - 회원정보는 파일로 저장하고 첫번째 페이지로 이동
 
+![image_1](./image/3.png)
+
 3. 세번째 화면 (Constraint Layout, Table Layout, Grid Layout, Frame Layout 중 하나 사용)
 - 첫번째 페이지에서 ID, 비밀번호 입력 시 정상이고 로그인 버튼 클릭 시 화면 출력
 - 세번째 화면을 간단한 기능을 수행하도록 구성 (ex. 간편 계산기 등)
@@ -26,3 +30,7 @@
   View Group을 상속한 위젯 ListView, GridView, AdapterView, ToolBar 등
   Text View을 상속한 CheckBox, Switch, ToggleButton, RadioButton 등
   ImageView, ImageButton 등
+  
+  ![image_1](./image/1.png)
+  
+  ### Frame Layout을 이용한 그림판을 만들었습니다. 
